@@ -50,12 +50,12 @@
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
 
-\newfontfamily\bodyfont[]{Helvetica Neue}%Source Sans Pro
-\newfontfamily\thinfont[]{Helvetica Neue UltraLight}%Source Sans Pro ExtraLight
-\newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}%Source Sans Pro Black
+\newfontfamily\bodyfont[]{Source Sans Pro}%Helvetica Neue
+\newfontfamily\thinfont[]{Source Sans Pro ExtraLight}%Helvetica Neue UltraLight
+\newfontfamily\headingfont[]{Source Sans Pro Black}%Helvetica Neue Condensed Bold
 
 \defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}%Source Sans Pro Light
+\setmainfont[Mapping=tex-text, Color=textcolor]{Source Sans Pro Light}%Helvetica Neue Light
 
 %\setmathfont{XITS Math}
 
