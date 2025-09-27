@@ -83,7 +83,7 @@
       \thinfont #3%
     };
   \end{tikzpicture}
-  \vspace{2.5cm}
+  \vspace{2.cm}
   \vspace{-2\parskip}
 }
 
